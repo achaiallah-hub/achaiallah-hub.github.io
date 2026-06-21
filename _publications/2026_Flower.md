@@ -1,7 +1,7 @@
 ---
 title: "Powerful flowers: Public perception of grassland aesthetics is strongly related to management and biodiversity"
 collection: publications
-category: 
+category: manuscripts
 permalink: /publication/2026_Flower
 date: 2026-02-17
 venue: 'Agriculture, Ecosystems & Environment'
